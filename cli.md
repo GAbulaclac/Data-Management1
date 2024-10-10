@@ -1,0 +1,1 @@
+ls command does is that it list files and the cat command displays files contents.

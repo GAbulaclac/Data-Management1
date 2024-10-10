@@ -18,3 +18,4 @@
 - :cake:
 - :smirk:
 - :sunglasses:
+[CLI commands](Docs/cli.md)
